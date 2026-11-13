@@ -1,7 +1,7 @@
 {
-  "versao": "1.0.0",
-  "mensagem": "Primeira versão do MaisVídeo: baixa vídeos do YouTube, Instagram, TikTok e de mais de mil sites, em até 4K ou só o áudio em MP3, com playlists, fila e a extensão Nítido.",
-  "mensagem_en": "First version of MaisVídeo: downloads videos from YouTube, Instagram, TikTok and 1000+ sites, up to 4K or audio-only MP3, with playlists, a queue and the Nítido extension.",
+  "versao": "1.1.0",
+  "mensagem": "Visual novo, claro, com as letras mais fáceis de ler. A extensão do navegador passa a se chamar MaisVídeo Nítido: depois de atualizar, recarregue-a na tela de extensões.",
+  "mensagem_en": "New light look, easier to read. The browser extension is now called MaisVídeo Nítido: after updating, reload it on the extensions page.",
   "url": "https://github.com/VHu-Code/maisvideo-dl/releases/latest/download/MaisVideo_Instalador.exe",
-  "sha256": "72ba238892453a342cc6939efbefeaf8cac3c7d2c514a9d107ac481c894ae99b"
+  "sha256": "14e81bd3e13fe26af27c8346d320cd144020edd2678e44a8de9f8fca2980784b"
 }
