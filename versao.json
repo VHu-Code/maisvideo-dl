@@ -1,7 +1,7 @@
 {
-  "versao": "1.1.0",
-  "mensagem": "Visual novo, claro, com as letras mais fáceis de ler. A extensão do navegador passa a se chamar MaisVídeo Nítido: depois de atualizar, recarregue-a na tela de extensões.",
-  "mensagem_en": "New light look, easier to read. The browser extension is now called MaisVídeo Nítido: after updating, reload it on the extensions page.",
+  "versao": "1.2.0",
+  "mensagem": "Playlist aparece em poucos segundos, com o aviso Analisando a playlist. Os vídeos de uma playlist vão para uma pasta própria e ficam agrupados na lista. O vídeo ou a música toca dentro do programa. Download que parava com erro 403 agora tenta de novo sozinho. A extensão ganhou a logo do programa: depois de atualizar, recarregue-a na tela de extensões.",
+  "mensagem_en": "Playlists show up in a few seconds, with an Analyzing the playlist notice. Playlist videos go to their own folder and are grouped in the list. Videos and music play inside the app. Downloads that stopped with error 403 now retry on their own. The extension got the app logo: after updating, reload it on the extensions page.",
   "url": "https://github.com/VHu-Code/maisvideo-dl/releases/latest/download/MaisVideo_Instalador.exe",
-  "sha256": "14e81bd3e13fe26af27c8346d320cd144020edd2678e44a8de9f8fca2980784b"
+  "sha256": "f25b25e5c1c57af9787c538359504ba9d7a90016ab7d13fc1ab96dd23cff58e9"
 }
