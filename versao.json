@@ -1,7 +1,7 @@
 {
-  "versao": "1.3.0",
-  "mensagem": "Corrigido: o Tocar aqui agora toca o vídeo e a música dentro do programa. Licença: o teste grátis passa a ser de 24 horas e há dois planos, R$ 29,99 por trimestre ou R$ 99,99 por ano. Quem já tem licença continua com ela até o vencimento.",
-  "mensagem_en": "Fixed: Play here now plays videos and music inside the app. License: the free trial is now 24 hours and there are two plans, R$ 29.99 per quarter or R$ 99.99 per year. Existing licenses stay valid until they expire.",
+  "versao": "1.3.1",
+  "mensagem": "Novo: Tentar de novo em vários downloads de uma vez (marque os que deram erro, ou use o botão Tentar de novo os que deram erro). Em playlist comprida aberta, uma barra fica no topo da lista para fechar a playlist sem precisar voltar ao começo.",
+  "mensagem_en": "New: Try again on several downloads at once (select the failed ones, or use the Retry the failed button). In a long open playlist, a bar stays at the top of the list so you can close the playlist without scrolling back up.",
   "url": "https://github.com/VHu-Code/maisvideo-dl/releases/latest/download/MaisVideo_Instalador.exe",
-  "sha256": "8b9533f969ad267a9070d281cc5b48ab4d8d52c152e5f99d376c7fe3edd9ec9c"
+  "sha256": "349a5bd7505a8f6239329be2950d0aec7feaa216f988b57a840736ad79ad4a54"
 }
