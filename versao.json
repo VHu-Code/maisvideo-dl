@@ -1,7 +1,7 @@
 {
-  "versao": "1.3.6",
-  "mensagem": "A atualização agora mostra o andamento na tela e só fecha o programa quando o download termina.",
-  "mensagem_en": "Updates now show progress on screen and only close the app when the download is done.",
+  "versao": "1.3.7",
+  "mensagem": "A atualização mostra o andamento na tela, só fecha o programa quando o download termina e não usa mais a pasta temporária do Windows.",
+  "mensagem_en": "Updates show progress on screen, only close the app when the download is done, and no longer use the Windows temp folder.",
   "url": "https://github.com/VHu-Code/maisvideo-dl/releases/download/v1.3.6/MaisVideo_Instalador.exe",
-  "sha256": "8e5197c98e6b4f0820e04157b6c20ff109255dcc8067b9afbf494c4e4e5eb0bf"
+  "sha256": "a1f8c77fc14829191a57506f2d5c55407c696ab61a33dfb3d3a29875fcf16c9c"
 }
