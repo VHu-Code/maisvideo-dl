@@ -1,7 +1,7 @@
 {
-  "versao": "1.3.4",
-  "mensagem": "Correção: o TikTok voltou a baixar. O site passou a recusar a conexão do programa; agora ele se apresenta como navegador.",
-  "mensagem_en": "Fix: TikTok downloads work again. The site had started refusing the app's connection; it now presents itself as a browser.",
+  "versao": "1.3.5",
+  "mensagem": "Bolinha de baixar direto na página (YouTube, Shorts, TikTok, Instagram, X), vídeos que pedem login pela extensão e posts de fotos do TikTok.",
+  "mensagem_en": "Download bubble right on the page (YouTube, Shorts, TikTok, Instagram, X), login-only videos through the extension, and TikTok photo posts.",
   "url": "https://github.com/VHu-Code/maisvideo-dl/releases/latest/download/MaisVideo_Instalador.exe",
-  "sha256": "a47c24cb33d5aee2331ed85a667f6eeccc1aa853b3acba86ec5c32b2c9fc6df3"
+  "sha256": "b894244972c6b4c6eecd30e8eb47173132d3758b2a883b5052e57f6dd6846afd"
 }
