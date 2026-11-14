@@ -1,7 +1,7 @@
 {
-  "versao": "1.3.5",
-  "mensagem": "Bolinha de baixar direto na página (YouTube, Shorts, TikTok, Instagram, X), vídeos que pedem login pela extensão e posts de fotos do TikTok.",
-  "mensagem_en": "Download bubble right on the page (YouTube, Shorts, TikTok, Instagram, X), login-only videos through the extension, and TikTok photo posts.",
-  "url": "https://github.com/VHu-Code/maisvideo-dl/releases/latest/download/MaisVideo_Instalador.exe",
-  "sha256": "b894244972c6b4c6eecd30e8eb47173132d3758b2a883b5052e57f6dd6846afd"
+  "versao": "1.3.6",
+  "mensagem": "A atualização agora mostra o andamento na tela e só fecha o programa quando o download termina.",
+  "mensagem_en": "Updates now show progress on screen and only close the app when the download is done.",
+  "url": "https://github.com/VHu-Code/maisvideo-dl/releases/download/v1.3.6/MaisVideo_Instalador.exe",
+  "sha256": "8e5197c98e6b4f0820e04157b6c20ff109255dcc8067b9afbf494c4e4e5eb0bf"
 }
