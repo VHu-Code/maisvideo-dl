@@ -1,7 +1,7 @@
 {
-  "versao": "1.3.1",
-  "mensagem": "Novo: Tentar de novo em vários downloads de uma vez (marque os que deram erro, ou use o botão Tentar de novo os que deram erro). Em playlist comprida aberta, uma barra fica no topo da lista para fechar a playlist sem precisar voltar ao começo.",
-  "mensagem_en": "New: Try again on several downloads at once (select the failed ones, or use the Retry the failed button). In a long open playlist, a bar stays at the top of the list so you can close the playlist without scrolling back up.",
+  "versao": "1.3.2",
+  "mensagem": "Novo: a extensão mostra uma prévia de cada item (quadro do vídeo, imagem, primeira página do PDF) e da página que vai para o programa. Quando o endereço colado não é de um vídeo, o programa explica como copiar o link certo. Segurança: o programa e a extensão não recebem nem guardam mais o login dos sites, e o que uma versão antiga guardou é apagado. Vídeos que só aparecem para quem está logado deixam de baixar.",
+  "mensagem_en": "New: the extension shows a preview of each item (video frame, image, first page of a PDF) and of the page being sent to the app. When the pasted address is not a video, the app explains how to copy the right link. Security: the app and the extension no longer receive or store site logins, and anything an older version stored is deleted. Videos that are only visible to logged-in users no longer download.",
   "url": "https://github.com/VHu-Code/maisvideo-dl/releases/latest/download/MaisVideo_Instalador.exe",
-  "sha256": "349a5bd7505a8f6239329be2950d0aec7feaa216f988b57a840736ad79ad4a54"
+  "sha256": "c9564d9cb274e006ac3097c6115f9645c1540fb0b1fe8a3bd3e40e85cbdbce56"
 }
